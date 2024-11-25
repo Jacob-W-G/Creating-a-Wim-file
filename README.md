@@ -8,7 +8,7 @@ Step 2: Use a clean computer so theres minimal amount or absolutly zero duplicat
 
 Step 3: Do a Sysprep on the computer so you can get a generalized image of the computer.
 
-Step 7: Boot the computer in Windows PE and once at Command line enter the following commands.
+Step 4: Boot the computer in Windows PE and once at Command line enter the following commands.
 
 Here are the commands in order.
 
