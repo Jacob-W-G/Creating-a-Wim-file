@@ -1,5 +1,7 @@
 # Creating-a-Wim-file
+
 Creating a Wim file from a active computer
+
 How to create a Wim file to be set for export to other computers.
 
 Step 1: Get everything before you will need to start witch is a external hard drive or flash drive with enougth storage to have the file stored.
